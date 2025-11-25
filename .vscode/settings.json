@@ -1,0 +1,12 @@
+{
+    "cSpell.words": [
+        "defun",
+        "defvar",
+        "dotimes",
+        "maplist",
+        "progn",
+        "sbcl",
+        "setq",
+        "uiop"
+    ]
+}
