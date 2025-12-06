@@ -6,7 +6,10 @@
         "maplist",
         "progn",
         "sbcl",
+        "setf",
         "setq",
-        "uiop"
+        "subseq",
+        "uiop",
+        "zerop"
     ]
 }
