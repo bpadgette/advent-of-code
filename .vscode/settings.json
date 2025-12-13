@@ -1,0 +1,17 @@
+{
+    "cSpell.words": [
+        "aref",
+        "defun",
+        "defvar",
+        "dotimes",
+        "gethash",
+        "maplist",
+        "progn",
+        "sbcl",
+        "setf",
+        "setq",
+        "subseq",
+        "uiop",
+        "zerop"
+    ]
+}

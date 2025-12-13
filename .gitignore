@@ -1,3 +1,8 @@
+.vscode/*
+!.vscode/settings.json
+
+puzzle-input.txt
+
 *.FASL
 *.fasl
 *.lisp-temp
