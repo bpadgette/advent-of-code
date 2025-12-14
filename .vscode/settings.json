@@ -5,6 +5,8 @@
         "defvar",
         "dotimes",
         "gethash",
+        "joltage",
+        "logxor",
         "maplist",
         "progn",
         "sbcl",
